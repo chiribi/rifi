@@ -84,7 +84,7 @@ export default function NumberGrid({
   return (
     <section className="bg-white rounded-3xl p-4 md:p-6 shadow-xl shadow-slate-950/10 border border-slate-200/70">
       <div className="mb-6">
-        <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
+        <h2 className="text-lg sm:text-2xl font-bold text-slate-800">
           🎯 ESCOLHA SEUS NÚMEROS
         </h2>
 
